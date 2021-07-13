@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B5A382D8-8042-497F-986B-7B5AED01A87B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63C6B50A-517A-4243-BF32-C9CBA4CBC38D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BreakingBad/BBListCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "BBListCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "63C6B50A-517A-4243-BF32-C9CBA4CBC38D - 425413d480881791"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BreakingBad.BBListCell.imageViews.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "BreakingBad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iacdiacd/Documents/iacd%20Storyboard/BreakingBad/BreakingBad/BBListCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "63C6B50A-517A-4243-BF32-C9CBA4CBC38D - b5d416f402861a6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BreakingBad.BBListCell.imageViews.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "BreakingBad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iacdiacd/Documents/iacd%20Storyboard/BreakingBad/BreakingBad/BBListCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "63C6B50A-517A-4243-BF32-C9CBA4CBC38D - eb6614b3b5f8e10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BreakingBad.BBListCell.imageViews.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "BreakingBad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iacdiacd/Documents/iacd%20Storyboard/BreakingBad/BreakingBad/BBListCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "63C6B50A-517A-4243-BF32-C9CBA4CBC38D - 50a1b426820510c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BreakingBad.BBListCell.imageViews.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BreakingBad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iacdiacd/Documents/iacd%20Storyboard/BreakingBad/BreakingBad/BBListCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "63C6B50A-517A-4243-BF32-C9CBA4CBC38D - 724b9171149d6fef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BreakingBad.BBListCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; BreakingBad.BBListCell"
+                  moduleName = "BreakingBad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iacdiacd/Documents/iacd%20Storyboard/BreakingBad/BreakingBad/BBListCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "63C6B50A-517A-4243-BF32-C9CBA4CBC38D - c680eb7a6449df2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BreakingBad.BBListCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BreakingBad.BBListCell&gt;"
+                  moduleName = "BreakingBad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iacdiacd/Documents/iacd%20Storyboard/BreakingBad/BreakingBad/BBListCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "221">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
