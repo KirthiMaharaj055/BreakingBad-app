@@ -58,9 +58,11 @@ class BreakingBadDetailView: UIViewController {
         var quoteString = ""
         
         for quote in quotes {
-            quoteString.append("\n")
-            quoteString.append("\(quote.quote)")
-            
+            if quote.author == breakBad?.name {
+                quoteString.append("\n")
+                quoteString.append("\(quote.quote)")
+               
+            }
         }
         interestLabel.text = "Quote: \(quoteString )"
     }
